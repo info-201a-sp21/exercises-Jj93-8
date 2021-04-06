@@ -1,5 +1,5 @@
 # What I had for breakfast:
 
-coffee
-A donut
-An apple
+- A donut
+- An apple
+- Coffee
